@@ -1,2 +1,1 @@
- Print(
-HelloWorld) 
+ Print("HelloWorld") 
